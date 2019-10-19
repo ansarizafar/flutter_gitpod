@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/[your GitHub username]/[your repository])
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ansarizafar/flutter_gitpod)
 
 This project is a starting point for a Flutter application.
 
